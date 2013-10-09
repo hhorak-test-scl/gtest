@@ -128,7 +128,7 @@ rm -rf %{buildroot}
 - 1.5.0
 - some cleanup
 
-* Sat Aug 26 2010 Dan Horák <dan[at]danny.cz> - 1.4.0-2
+* Thu Aug 26 2010 Dan Horák <dan[at]danny.cz> - 1.4.0-2
 - added workaround for linking the tests on Fedora >= 13 (#564953, #599865)
 
 * Sat Nov 14 2009 Debarshi Ray <rishi@fedoraproject.org> - 1.4.0-1
